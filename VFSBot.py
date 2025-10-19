@@ -9,6 +9,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler
 from configparser import ConfigParser
 
+
 class VFSBot:
     def __init__(self):
         self.config = ConfigParser()
