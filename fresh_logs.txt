@@ -1,0 +1,50 @@
+﻿	0xc92bea
+	0xa3e5b4
+	0xa2dd28
+	0xa34d8d
+	0xa1ded8
+	0xa1e09c
+	0xa07d1a
+	0x76525d49
+	0x7732d6db
+	0x7732d661
+
+2025-11-02 18:25:00 - VFSBot - WARNING - вљ пёЏ РџРѕР»Рµ country РЅРµ РЅР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ
+2025-11-02 18:25:00 - VFSBot - WARNING - вљ пёЏ РќРµ СѓРґР°Р»РѕСЃСЊ Р·Р°РїРѕР»РЅРёС‚СЊ passportValidityDate: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="passportValidityDate"]"}
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa158c3
+	0xa15904
+	0x82e76d
+	0x87a09d
+	0x87a47b
+	0x8c1802
+	0x89c9b4
+	0x8beea6
+	0x89c766
+	0x86dac0
+	0x86ede4
+	0xc97974
+	0xc92bea
+	0xa3e5b4
+	0xa2dd28
+	0xa34d8d
+	0xa1ded8
+	0xa1e09c
+	0xa07d1a
+	0x76525d49
+	0x7732d6db
+	0x7732d661
+
+2025-11-02 18:25:01 - VFSBot - WARNING - вљ пёЏ РџРѕР»Рµ appointmentCategory РЅРµ РЅР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ
+2025-11-02 18:25:01 - VFSBot - WARNING - вљ пёЏ РџРѕР»Рµ gender РЅРµ РЅР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ
+2025-11-02 18:25:01 - VFSBot - INFO - вњ… рџљЂ РђР’РўРћ-Р—РђРџРћР›РќР•РќРР• Р—РђР’Р•Р РЁР•РќРћ РґР»СЏ SUNNATILLO BERDIMURODOV! Р—Р°РїРѕР»РЅРµРЅРѕ 3 РїРѕР»РµР№
+2025-11-02 18:25:01 - VFSBot - INFO - рџЋЇ РџСЂРёРЅСѓРґРёС‚РµР»СЊРЅР°СЏ РїСЂРѕРІРµСЂРєР° РІС‹Р±РѕСЂР° Lithuania РїРѕСЃР»Рµ Р°РІС‚Рѕ-Р·Р°РїРѕР»РЅРµРЅРёСЏ...
+2025-11-02 18:25:01 - VFSBot - INFO - рџЋЇ РџР РРћР РРўР•Рў: РџСЂРёРЅСѓРґРёС‚РµР»СЊРЅС‹Р№ РІС‹Р±РѕСЂ Lithuania Temporary Residence Permit...
+2025-11-02 18:25:03 - VFSBot - WARNING - вљ пёЏ РќРµ СѓРґР°Р»РѕСЃСЊ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РІС‹Р±СЂР°С‚СЊ Lithuania РєР°С‚РµРіРѕСЂРёСЋ - РїСЂРѕРІРµСЂСЊС‚Рµ РІСЂСѓС‡РЅСѓСЋ
+2025-11-02 18:25:03 - VFSBot - INFO - вњ… РђРІС‚Рѕ-Р·Р°РїРѕР»РЅРµРЅРёРµ Р·Р°РІРµСЂС€РµРЅРѕ РґР»СЏ SUNNATILLO BERDIMURODOV
+2025-11-02 18:25:03 - VFSBot - INFO - рџ”„ РќР°С‡Р°Р»Рѕ РЅРµРїСЂРµСЂС‹РІРЅРѕР№ РїСЂРѕРІРµСЂРєРё РІСЃС‚СЂРµС‡ РґР»СЏ SUNNATILLO BERDIMURODOV...
+2025-11-02 18:25:03 - VFSBot - WARNING - вљ пёЏ Lithuania РєР°С‚РµРіРѕСЂРёСЏ РЅРµ РІС‹Р±СЂР°РЅР°, РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅС‹Р№ РІС‹Р±РѕСЂ...
+2025-11-02 18:25:03 - VFSBot - INFO - рџЋЇ РџР РРћР РРўР•Рў: РџСЂРёРЅСѓРґРёС‚РµР»СЊРЅС‹Р№ РІС‹Р±РѕСЂ Lithuania Temporary Residence Permit...
+2025-11-02 18:25:05 - VFSBot - WARNING - вљ пёЏ РќРµ СѓРґР°Р»РѕСЃСЊ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РІС‹Р±СЂР°С‚СЊ Lithuania РєР°С‚РµРіРѕСЂРёСЋ - РїСЂРѕРІРµСЂСЊС‚Рµ РІСЂСѓС‡РЅСѓСЋ

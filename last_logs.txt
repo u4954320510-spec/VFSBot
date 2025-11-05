@@ -1,0 +1,30 @@
+﻿  File "C:\Users\Thoma\Documents\GitHub\VFSBot\VFSBot.py", line 2913, in check_appointment
+    raise WebError("Accordion1 element not found")
+utils.WebError: Accordion1 element not found
+2025-11-02 17:15:00 - VFSBot - ERROR - вќЊ РћС€РёР±РєР° РІРµР±-СЃР°Р№С‚Р° РґР»СЏ KAMOLIDDIN NASIMOV.
+РџРѕРїС‹С‚РєР° СЃРЅРѕРІР°...
+2025-11-02 17:15:00 - VFSBot - ERROR - вќЊ РРЎРљР›Р®Р§Р•РќРР• РїСЂРё РІС…РѕРґРµ РґР»СЏ KAMOLIDDIN NASIMOV: 
+Traceback (most recent call last):
+  File "C:\Users\Thoma\Documents\GitHub\VFSBot\VFSBot.py", line 919, in login
+    await self.check_appointment(update, context)
+  File "C:\Users\Thoma\Documents\GitHub\VFSBot\VFSBot.py", line 2913, in check_appointment
+    raise WebError("Accordion1 element not found")
+utils.WebError: Accordion1 element not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Thoma\Documents\GitHub\VFSBot\VFSBot.py", line 929, in login
+    raise WebError
+utils.WebError
+2025-11-02 17:15:00 - VFSBot - WARNING - вљ пёЏ WebError #1/5 РґР»СЏ KAMOLIDDIN NASIMOV: 
+2025-11-02 17:15:00 - VFSBot - INFO - вЏі РћР¶РёРґР°РЅРёРµ 5 СЃРµРєСѓРЅРґ РїРµСЂРµРґ РїРѕРІС‚РѕСЂРѕРј (С‚РёРї РѕС€РёР±РєРё: unknown)...
+2025-11-02 17:15:06 - VFSBot - INFO - 
+============================================================
+2025-11-02 17:15:06 - VFSBot - INFO - рџ‘¤ РџР•Р Р•РљР›Р®Р§Р•РќРР• РќРђ Р—РђРЇР’РРўР•Р›РЇ: BEKMUROD ISAKOV
+2025-11-02 17:15:06 - VFSBot - INFO - ============================================================
+2025-11-02 17:15:06 - VFSBot - INFO - ============================================================
+2025-11-02 17:15:06 - VFSBot - INFO - рџ”ђ Р’РҐРћР” Р’ РЎРРЎРўР•РњРЈ Р”Р›РЇ: BEKMUROD ISAKOV
+2025-11-02 17:15:06 - VFSBot - INFO - ============================================================
+2025-11-02 17:15:06 - VFSBot - INFO - рџЊђ РџРµСЂРµС…РѕРґ РЅР° URL: https://visa.vfsglobal.com/uzb/en/ltp/application-detail
+2025-11-02 17:15:12 - VFSBot - INFO - рџЌЄ РџСЂРѕРІРµСЂРєР° Рё Р·Р°РєСЂС‹С‚РёРµ cookie consent РґРёР°Р»РѕРіР°...
